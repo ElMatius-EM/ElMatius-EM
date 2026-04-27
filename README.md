@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ](https://github.com/ElMatius-EM)
 
-*Estudiante de Lic. en Informática — UNPSJB · Comodoro Rivadavia, Patagonia 🏔️*
+*Estudiante de Lic. en Informática — UNPSJB · Comodoro Rivadavia, Patagonia*
 
 *Todo lo que sé de IA lo aprendí construyendo proyectos reales.*
 
