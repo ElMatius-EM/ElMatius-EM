@@ -13,7 +13,7 @@
 
 ---
 
-### 🧠 Technical Stack
+### Technical Stack
 
 | Categoría | Tecnologías |
 | --- | --- |
@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 Proyectos Destacados
+### Proyectos Destacados
 
 | Proyecto | Descripción | Stack | 
 | :--- | :--- | :--- |
