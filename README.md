@@ -7,7 +7,6 @@
 
 *Estudiante de Lic. en Informática — UNPSJB · Comodoro Rivadavia, Patagonia*
 
-> **"Aplicando la IA en proyectos reales y escalables."**
 
 </div>
 
